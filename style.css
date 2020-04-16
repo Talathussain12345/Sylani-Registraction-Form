@@ -17,7 +17,7 @@ button{
 form{
     
     margin: 10px;
-    padding: 10px 10px;
+    padding: 10px 20px;
     border: #8fce12 solid 3px;
     background-color:#0c446e;
     color: white;
@@ -27,4 +27,13 @@ form{
 h1{
     text-decoration: underline #0c446e;
     color: #8fce12;
+}
+
+a{
+    text-decoration: none;
+}
+
+td{
+    padding-left: 18px;
+    margin-left: 18px;
 }
